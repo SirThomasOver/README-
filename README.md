@@ -1,4 +1,4 @@
-# README-
+# UM POUCO SOBRE MIM - MINHA BIO  
 # Olá! 👋 Eu sou Thomas
 
 Sou estudante de **Engenharia de Software**, atualmente desenvolvendo minhas habilidades em **Python, automação de processos e RPA (Robotic Process Automation)**.
